@@ -1,0 +1,3 @@
+function test(String text) {
+  Console.log(text);
+}
